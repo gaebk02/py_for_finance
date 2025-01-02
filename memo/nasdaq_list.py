@@ -2,4 +2,4 @@
 # https://www.nasdaq.com/market-activity/stocks/screener
 
 import pandas as pd
-nasdaq_list = pd.read_csv('nasdaq_screener.csv')
+nasdaq_list = pd.read_csv('../nasdaq_screener.csv')
